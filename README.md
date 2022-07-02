@@ -1,7 +1,10 @@
 # Hello I'm Abdur Rahim 👋
 Junior Web developer
+
 Passion writing coding
+
 Passionate learn new technology
+
 <!-- ![Passion write code](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 # 🚀 About Me
