@@ -22,7 +22,7 @@ Hi, This is Abdur Rahim. I am a positive, fast learner, enthusiastic and capable
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24400901" height="30" width="100" />
  </a>
 <a href="https://fb.com/abrahim1999" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrahim1999" height="30" width="100" />
+  <img align="center" src="(https://camo.githubusercontent.com/2d1ffa69dd491eb…d66616365626f6f6b266c6f676f436f6c6f723d7768697465)" alt="abrahim1999" height="30" width="100" />
  </a>
 </p>
 
