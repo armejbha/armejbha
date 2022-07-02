@@ -18,9 +18,11 @@ Hi, This is Abdur Rahim. I am a positive, fast learner, enthusiastic and capable
 <p align="left">
 <a href="https://linkedin.com/in/armejbha" target="blank">
   <img align="center" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="armejbha"  height="40" style="max-width:100%;"  />
- </a>a
+ </a>
 <a href="https://fb.com/abrahim1999" target="blank">
   <img align="center" src="https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="abrahim1999" height="40" style="max-width:100%;" />
  </a>
 </p>
+
+
 
