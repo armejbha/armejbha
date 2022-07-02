@@ -1,10 +1,13 @@
-### Hi there 👋, Hello I'm Abdur Rahim
-#### Passion write code
-![Passion write code](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+# Hello I'm Abdur Rahim 👋
+####  Junior Web developer
+####  Passion writing coding
+####  Passionate learn new technology
+<!-- ![Passion write code](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+#🚀 About Me
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Hi, This is Abdur Rahim. I am a positive, fast learner, enthusiastic and capable web developer. I am passionate to learn new technology and capable to work with other team members.Web development is my passion and I am happy to do coding. I am currently increasing my experience and expressing innovative creative skills for company growth. 
+
 
 - 🔭 I’m currently working on D 
 - 🌱 I’m currently learning Redux 
