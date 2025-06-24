@@ -1,17 +1,20 @@
 
 ![Passion write code](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) 
 # 👋 Hello, I'm Abdur Rahim
-🥊 Junior Web Developer | React | Firebase  
-🚀 Currently learning Node.js & MongoDB
-
 ❤️ Passionate about writing code  
 🤖 Always excited to learn new technologies  
 
 ---
 
 ## 🚀 About Me
-Hi, I’m Abdur Rahim. I’m a fast learner, team player, and passionate web developer focused on building full-stack applications using modern tools like React, Firebase, and Node.js. I'm committed to continuous learning and contributing to innovative solutions.
+Hi, I’m Abdur Rahim. I’m a fast learner, team player, and passionate web developer focused on building full-stack applications using modern tools like React, Firebase, and Express.js. I'm committed to continuous learning and contributing to innovative solutions.
 
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/armejbha)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24400901)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/abrahim1999)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/armejbha)
 
 
 # Skills
@@ -33,13 +36,6 @@ Hi, I’m Abdur Rahim. I’m a fast learner, team player, and passionate web dev
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://linkedin.com/in/armejbha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armejbha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/24400901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24400901" height="30" width="40" /></a>
-<a href="https://fb.com/abrahim1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrahim1999" height="30" width="40" /></a>
- <a href="https://fb.com/abrahim1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abrahim1999" height="30" width="40" /></a>
-</p>
 <h1>Current Stats:</h1>
 <!-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> -->
 
