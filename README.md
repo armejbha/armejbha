@@ -27,7 +27,7 @@ Hi, This is Abdur Rahim. I am a positive, fast learner, enthusiastic and capable
 
 <div style="display:flex;justify-content:center;align-items:center">
 <img src="https://github-readme-stats.vercel.app/api?username=armejbha&show_icons=true&locale=en" alt="armejbha" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=armejbha&" alt="armejbha" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=armejbha&" alt="armejbha" /> -->
 </div>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=armejbha&show_icons=true&locale=en&layout=compact" alt="armejbha" /></p>
