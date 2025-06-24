@@ -1,13 +1,18 @@
-# Hello I'm Abdur Rahim 👋
-🥊 Junior Web developer
-:heart: Passion writing coding
-:robot: Passionate learn new technology
 
-<!-- ![Passion write code](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
+![Passion write code](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) 
+# 👋 Hello, I'm Abdur Rahim
+🥊 Junior Web Developer | React | Firebase  
+🚀 Currently learning Node.js & MongoDB
 
-# 🚀 About Me
+❤️ Passionate about writing code  
+🤖 Always excited to learn new technologies  
 
-Hi, This is Abdur Rahim. I am a positive, fast learner, enthusiastic and capable web developer. I am passionate to learn new technology and capable to work with other team members.Web development is my passion and I am happy to do coding. I am currently increasing my experience and expressing innovative creative skills for company growth. 
+---
+
+## 🚀 About Me
+Hi, I’m Abdur Rahim. I’m a fast learner, team player, and passionate web developer focused on building full-stack applications using modern tools like React, Firebase, and Node.js. I'm committed to continuous learning and contributing to innovative solutions.
+
+
 
 # Skills
 ## 🛠️ Tech Stack
