@@ -1,13 +1,16 @@
 <img src="./abdurrahim.png" alt="Abdur Rahim">
 
 # 👋 Hello, I'm Abdur Rahim
-❤️ Passionate about writing code  
-🤖 Always excited to learn new technologies  
+
+- ❤️ Passionate about writing clean and efficient code  
+- 🤖 Always excited to explore and learn new technologies  
+- 🚀 Fast learner and enthusiastic team player  
+- 🌐 Focused on building full-stack web applications  
+- 🛠 Skilled in React, Firebase, Express.js, and MongoDB  
+- 💡 Committed to continuous learning and improving my craft  
+- 🤝 Love contributing to meaningful and innovative projects  
 
 ---
-
-## 🚀 About Me
-Hi, I’m Abdur Rahim. I’m a fast learner, team player, and passionate web developer focused on building full-stack applications using modern tools like React, Firebase, and Express.js. I'm committed to continuous learning and contributing to innovative solutions.
 
 ## 🌐 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
