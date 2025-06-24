@@ -1,4 +1,4 @@
-
+<img src="./abdurrahim.png" alt="Abdur Rahim">
 ![Passion write code](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) 
 # 👋 Hello, I'm Abdur Rahim
 ❤️ Passionate about writing code  
