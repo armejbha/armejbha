@@ -1,4 +1,4 @@
-<img src="./abdurrahim.png" alt="Abdur Rahim">
+<img src="./banner.png" alt="Abdur Rahim">
 
 # 👋 Hello, I'm Abdur Rahim
 
